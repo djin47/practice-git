@@ -7,6 +7,7 @@ export default function Home() {
       <div>
         from branch 2
         Branch 1
+        more changes
       </div>
     </div>
   );
