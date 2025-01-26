@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <div>
         from branch 2
+        Branch 1
       </div>
     </div>
   );
