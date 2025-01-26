@@ -8,6 +8,7 @@ export default function Home() {
         from branch 2
         Branch 1
         more changes
+        more changes
         fixing bugs bc
       </div>
     </div>
