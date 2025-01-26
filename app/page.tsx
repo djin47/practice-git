@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <div>
-        Created something usefull
+        from branch 2
       </div>
     </div>
   );
